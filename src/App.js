@@ -1,10 +1,8 @@
-import './App.css';
-import FormikValidation from './FormikValidation';
+import FormikValidation from "./FormikValidation";
 
 function App() {
-
   return (
-    <div className='App'>
+    <div className="App">
       <FormikValidation />
     </div>
   );
